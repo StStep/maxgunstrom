@@ -1,0 +1,1 @@
+A gamemode for Garry's Mod which will include gamemode files and a suite of advanced duplicator files containing weapons, tanks, and various other devices for blowing up and protecting tanks.
